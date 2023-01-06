@@ -1,0 +1,83 @@
+.innerLogo img {
+    width: 220px;
+    height: 36px;
+    align-items: center;
+}
+
+.all {
+    margin: auto;
+}
+
+.width {
+    width:1270px
+}
+
+.flex {
+    display: flex;
+}
+
+.nav {
+    width: 1270px;
+    height: 81px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 66px;
+    align-items: center;
+    margin: auto;
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+    margin-right: 20px;
+    gap: 30px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 90px;
+    height: 24px;
+}
+
+.font14 {
+    font-size: 14px;
+}
+
+.mid {
+    margin: auto;
+}
+
+.blog {
+    color: #D05270;
+    margin-bottom: 0;
+}
+
+.font52 {
+    font-size: 52px;
+}
+
+.ithink {
+    line-height: 63px;
+    font-weight: 500;
+    margin-top: 0;
+}
+
+.left {
+    width: 631px;
+    height: 380px;
+    margin-top: 87px;
+}
+
+.three img {
+    margin-left: 5px;
+    margin-top: 36px;
+}
+
+.right {
+    margin-left: 168px;
+    margin-top: 80px;
+}

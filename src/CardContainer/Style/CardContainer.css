@@ -1,0 +1,17 @@
+.post-map {
+    /* display: flex; */
+    flex-flow: wrap column;
+    width: 1290px;
+    /* flex-wrap: wrap; */
+    /* flex-direction: column; */
+    margin: auto;
+    gap: 40px;
+    margin-top: 150px;
+}
+
+.postinner {
+    max-width: 590px;
+    display: inline-flex;
+    flex-flow: column wrap;
+    margin: 0 10px 72px 10px;
+}

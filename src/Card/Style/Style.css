@@ -1,0 +1,55 @@
+.allCard {
+    height: 100%;
+    width: 590px;
+    /* margin: auto; */
+    display: inline-flex;
+    flex-flow: column wrap;
+}
+
+.card {
+    width: 590px;
+    height: 778px;
+    margin: auto;
+    gap: 20px;
+}
+
+.nov {
+    font-size: 14px;
+    font-weight: 600;
+    color: #424242;
+}
+
+.thisWay {
+    color: #D05270;
+    font-size: 24px;
+    font-weight: 600;
+    height: 56px;
+}
+
+.read {
+    color: #D05270;
+    font-size: 18px;
+    font-weight: 500;
+    border-bottom: 1px solid #D05270;
+    margin-top: 70px;
+}
+
+.quick {
+    color: #424242;
+    font-weight: 400;
+    font-size: 16px;
+    height: 150px;
+}
+
+.space {
+    height: 124px;
+}
+
+.cardImage img {
+    width: 590px;
+    height: 415px;
+}
+
+.col {
+    height: 350px;
+}
